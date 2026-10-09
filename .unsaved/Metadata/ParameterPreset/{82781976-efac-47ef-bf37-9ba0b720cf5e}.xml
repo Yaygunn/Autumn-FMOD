@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{82781976-efac-47ef-bf37-9ba0b720cf5e}">
+		<property name="name">
+			<value>MashAmount</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5f8495e7-d05a-457f-9a8f-8d24392e868d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{f732ae48-a98e-4e20-be4b-0bc78fb0dd9b}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{f732ae48-a98e-4e20-be4b-0bc78fb0dd9b}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
