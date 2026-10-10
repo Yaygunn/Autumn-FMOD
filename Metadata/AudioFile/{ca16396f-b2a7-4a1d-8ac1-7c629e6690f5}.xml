@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{ca16396f-b2a7-4a1d-8ac1-7c629e6690f5}">
 		<property name="assetPath">
-			<value>flippage/player_flippage_rr-02.ogg</value>
+			<value>SFX/flippage/player_flippage_rr-02.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

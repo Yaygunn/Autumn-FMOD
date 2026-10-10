@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{0fc263d4-adcf-4dae-9b89-25a6467dead5}">
 		<property name="assetPath">
-			<value>cut/player_cut_rr-02.ogg</value>
+			<value>SFX/cut/player_cut_rr-02.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

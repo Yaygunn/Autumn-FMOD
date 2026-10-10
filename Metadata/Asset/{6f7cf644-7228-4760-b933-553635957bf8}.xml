@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="EncodableAsset" id="{6f7cf644-7228-4760-b933-553635957bf8}">
 		<property name="assetPath">
-			<value>flippage/</value>
+			<value>SFX/flippage/</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{f2628555-e771-4c16-8c4d-28b2a8112560}</destination>

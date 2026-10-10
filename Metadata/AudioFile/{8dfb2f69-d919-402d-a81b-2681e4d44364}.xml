@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8dfb2f69-d919-402d-a81b-2681e4d44364}">
+		<property name="assetPath">
+			<value>SFX/cook/player_cook_rr_01.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.72999999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f2628555-e771-4c16-8c4d-28b2a8112560}</destination>
+		</relationship>
+	</object>
+</objects>

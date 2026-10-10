@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{9f90cc3c-d25b-49bd-aa16-9c2fae86b43b}">
+		<property name="name">
+			<value>SoupDeliveryState</value>
+		</property>
+		<relationship name="folder">
+			<destination>{5f8495e7-d05a-457f-9a8f-8d24392e868d}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{2ec8b549-68bd-4dca-a316-fc91a0452fc2}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{2ec8b549-68bd-4dca-a316-fc91a0452fc2}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

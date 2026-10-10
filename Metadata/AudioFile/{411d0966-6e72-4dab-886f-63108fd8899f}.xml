@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{411d0966-6e72-4dab-886f-63108fd8899f}">
 		<property name="assetPath">
-			<value>smash/player_smash_dry_rr_02.ogg</value>
+			<value>SFX/smash/player_smash_dry_rr_02.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
