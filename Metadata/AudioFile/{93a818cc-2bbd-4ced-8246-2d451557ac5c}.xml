@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{93a818cc-2bbd-4ced-8246-2d451557ac5c}">
 		<property name="assetPath">
 			<value>SFX/pour/player_pour_rr_03.ogg</value>

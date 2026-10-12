@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{9916bda4-a48c-47d7-bc8d-7921c8789f5c}">
 		<property name="assetPath">
 			<value>SFX/jar/player_jar_rr-04.ogg</value>

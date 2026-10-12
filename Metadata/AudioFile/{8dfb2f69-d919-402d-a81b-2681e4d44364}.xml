@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{8dfb2f69-d919-402d-a81b-2681e4d44364}">
 		<property name="assetPath">
 			<value>SFX/cook/player_cook_rr_01.ogg</value>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{2cfd7865-ff0e-40e7-9685-12c58e50d470}">
 		<property name="assetPath">
 			<value>SFX/ambience/amb_wind-rr_02.ogg</value>

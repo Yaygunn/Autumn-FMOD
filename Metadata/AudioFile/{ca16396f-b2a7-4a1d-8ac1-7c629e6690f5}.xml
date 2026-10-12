@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{ca16396f-b2a7-4a1d-8ac1-7c629e6690f5}">
 		<property name="assetPath">
 			<value>SFX/flippage/player_flippage_rr-02.ogg</value>

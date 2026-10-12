@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="Event" id="{ef86e605-3bea-4bba-8751-05bf10f6fd33}">
 		<property name="name">
 			<value>Wind</value>
@@ -8,7 +8,7 @@
 			<value>0</value>
 		</property>
 		<relationship name="folder">
-			<destination>{51c99b89-c96e-4410-a048-11e05dd45b3e}</destination>
+			<destination>{684e1c99-71ff-4423-b00c-b2875866c0f0}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{6bb9b8da-8278-400b-87ec-f554db380470}</destination>

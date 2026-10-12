@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.02.00">
+<objects serializationModel="Studio.02.03.00">
 	<object class="AudioFile" id="{7ead6523-a40c-441a-b4db-21a4ba4995fe}">
 		<property name="assetPath">
 			<value>SFX/smash/player_smash_dry_rr_04.ogg</value>
