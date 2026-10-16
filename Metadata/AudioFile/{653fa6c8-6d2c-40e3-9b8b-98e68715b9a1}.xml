@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{653fa6c8-6d2c-40e3-9b8b-98e68715b9a1}">
+		<property name="assetPath">
+			<value>SFX/sauce in/player_sauce_in_rr_02.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.29999999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f2628555-e771-4c16-8c4d-28b2a8112560}</destination>
+		</relationship>
+	</object>
+</objects>

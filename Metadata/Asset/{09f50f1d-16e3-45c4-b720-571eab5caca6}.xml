@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{09f50f1d-16e3-45c4-b720-571eab5caca6}">
+		<property name="assetPath">
+			<value>SFX/cauldron in/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f2628555-e771-4c16-8c4d-28b2a8112560}</destination>
+		</relationship>
+	</object>
+</objects>

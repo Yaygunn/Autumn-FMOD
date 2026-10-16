@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{36cacd2a-2759-4723-badc-20e8aa5aff3b}">
+		<property name="assetPath">
+			<value>SFX/hover interactable/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f2628555-e771-4c16-8c4d-28b2a8112560}</destination>
+		</relationship>
+	</object>
+</objects>
