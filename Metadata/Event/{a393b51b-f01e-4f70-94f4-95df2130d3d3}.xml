@@ -100,7 +100,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{6ba3928f-5825-4b4e-afb0-840b7fddb999}">
 		<property name="volume">
-			<value>-3.5</value>
+			<value>1.5</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{0d182572-ae89-4184-97c7-5f551c5a0049}</destination>
@@ -323,7 +323,7 @@
 			<value>0</value>
 		</property>
 		<property name="value">
-			<value>-13</value>
+			<value>-10</value>
 		</property>
 		<property name="curveShape">
 			<value>0.0786924064</value>
@@ -334,7 +334,7 @@
 			<value>0.99997916666666664</value>
 		</property>
 		<property name="value">
-			<value>0</value>
+			<value>3</value>
 		</property>
 	</object>
 </objects>
